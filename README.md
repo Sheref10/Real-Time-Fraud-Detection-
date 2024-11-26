@@ -1,5 +1,3 @@
-🛡️ ITI Graduation Project: Real-Time Fraud Detection
-
 🛡️ Real-Time Fraud Detection System
 
 This repository contains the implementation of a Real-Time Fraud Detection System, designed to detect anomalies and fraudulent activities by leveraging a modern, scalable data engineering and analytics pipeline.
