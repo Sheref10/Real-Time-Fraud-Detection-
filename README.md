@@ -26,6 +26,10 @@ Fraud detection is a critical application in domains like finance, e-commerce, a
     Visualization: Power BI, Matplotlib
     Databases: MySQL, PostgreSQL
 
+🌟 System Architecture:
+![System_Arch](https://github.com/user-attachments/assets/b0a3b862-21cd-4b52-9046-7cfb4118a596)
+
+
 Team Members:
 - Sheref Hamdy ( sherefhamdy10@gmail.com )
 - Abdelrahman Mahmoud ( a.mahmoud1803@gmail.com )
